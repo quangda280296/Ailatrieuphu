@@ -1,4 +1,4 @@
-package ailatrieuphu.trieuphu2019.activity;
+package com.quangda280296.ailatrieuphu.activity;
 
 import android.content.Intent;
 import android.content.res.Resources;
@@ -17,13 +17,13 @@ import android.widget.TextView;
 
 import com.daimajia.androidanimations.library.Techniques;
 import com.daimajia.androidanimations.library.YoYo;
-import ailatrieuphu.trieuphu2019.Config;
-import ailatrieuphu.trieuphu2019.R;
-import ailatrieuphu.trieuphu2019.database.ALTPHelper;
-import ailatrieuphu.trieuphu2019.database.HighscoreHelper;
-import ailatrieuphu.trieuphu2019.listener.OnTouchClickListener;
-import ailatrieuphu.trieuphu2019.utils.PlayMusic;
-import ailatrieuphu.trieuphu2019.utils.Utils;
+import com.quangda280296.ailatrieuphu.Config;
+import com.quangda280296.ailatrieuphu.R;
+import com.quangda280296.ailatrieuphu.database.ALTPHelper;
+import com.quangda280296.ailatrieuphu.database.HighscoreHelper;
+import com.quangda280296.ailatrieuphu.listener.OnTouchClickListener;
+import com.quangda280296.ailatrieuphu.utils.PlayMusic;
+import com.quangda280296.ailatrieuphu.utils.Utils;
 
 public class PlayActivity extends AppCompatActivity {
 
@@ -77,9 +77,9 @@ public class PlayActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_play);
 
-        FrameLayout layout_ads = findViewById(R.id.layout_ads);
+        /*FrameLayout layout_ads = findViewById(R.id.layout_ads);
         RelativeLayout adView = findViewById(R.id.adView);
-        Utils.showAd(getApplicationContext(), adView, layout_ads);
+        Utils.showAd(getApplicationContext(), adView, layout_ads);*/
 
         img_50 = findViewById(R.id.img_50);
         img_call = findViewById(R.id.img_call);
@@ -1235,7 +1235,7 @@ public class PlayActivity extends AppCompatActivity {
             }
         }, 20, getApplicationContext()));
 
-        Utils.showAdPopup();
+        //Utils.showAdPopup();
 
         Handler handler = new Handler();
         handler.postDelayed(new Runnable() {

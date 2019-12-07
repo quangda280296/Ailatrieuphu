@@ -1,4 +1,4 @@
-package ailatrieuphu.trieuphu2019.activity;
+package com.quangda280296.ailatrieuphu.activity;
 
 import android.content.Context;
 import android.content.Intent;
@@ -15,11 +15,11 @@ import android.widget.ImageView;
 import android.widget.ListView;
 import android.widget.TextView;
 
-import ailatrieuphu.trieuphu2019.Config;
-import ailatrieuphu.trieuphu2019.R;
-import ailatrieuphu.trieuphu2019.database.HighscoreHelper;
-import ailatrieuphu.trieuphu2019.listener.OnTouchClickListener;
-import ailatrieuphu.trieuphu2019.utils.Utils;
+import com.quangda280296.ailatrieuphu.Config;
+import com.quangda280296.ailatrieuphu.R;
+import com.quangda280296.ailatrieuphu.database.HighscoreHelper;
+import com.quangda280296.ailatrieuphu.listener.OnTouchClickListener;
+import com.quangda280296.ailatrieuphu.utils.Utils;
 
 //import com.noname.quangcaoads.QuangCaoSetup;
 
@@ -79,7 +79,7 @@ public class MainActivity extends AppCompatActivity {
             @Override
             public void onClick(View v) {
                 Intent intent = new Intent(Intent.ACTION_VIEW);
-                intent.setData(Uri.parse("market://details?id=ailatrieuphu.trieuphu2019"));
+                intent.setData(Uri.parse("market://details?id=com.quangda280296.ailatrieuphu"));
                 startActivity(intent);
             }
         }, 20, getApplicationContext()));

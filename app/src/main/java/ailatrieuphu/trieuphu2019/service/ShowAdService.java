@@ -1,4 +1,4 @@
-package ailatrieuphu.trieuphu2019.service;
+package com.quangda280296.ailatrieuphu.service;
 
 import android.app.Service;
 import android.content.Intent;
@@ -11,10 +11,10 @@ import android.util.Log;
 
 import com.google.android.gms.ads.AdRequest;
 import com.google.android.gms.ads.InterstitialAd;
-import ailatrieuphu.trieuphu2019.Config;
-import ailatrieuphu.trieuphu2019.Interface.ITimeReturn;
-import ailatrieuphu.trieuphu2019.utils.GetTimePopup;
-import ailatrieuphu.trieuphu2019.utils.Utils;
+import com.quangda280296.ailatrieuphu.Config;
+import com.quangda280296.ailatrieuphu.Interface.ITimeReturn;
+import com.quangda280296.ailatrieuphu.utils.GetTimePopup;
+import com.quangda280296.ailatrieuphu.utils.Utils;
 
 import java.text.SimpleDateFormat;
 import java.util.Date;

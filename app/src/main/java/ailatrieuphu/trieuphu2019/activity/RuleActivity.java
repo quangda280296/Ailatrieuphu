@@ -1,4 +1,4 @@
-package ailatrieuphu.trieuphu2019.activity;
+package com.quangda280296.ailatrieuphu.activity;
 
 import android.content.Intent;
 import android.os.Bundle;
@@ -10,12 +10,12 @@ import android.widget.RelativeLayout;
 
 import com.daimajia.androidanimations.library.Techniques;
 import com.daimajia.androidanimations.library.YoYo;
-import ailatrieuphu.trieuphu2019.R;
-import ailatrieuphu.trieuphu2019.listener.OnTouchClickListener;
-import ailatrieuphu.trieuphu2019.utils.PlayMusic;
-import ailatrieuphu.trieuphu2019.utils.Utils;
+import com.quangda280296.ailatrieuphu.R;
+import com.quangda280296.ailatrieuphu.listener.OnTouchClickListener;
+import com.quangda280296.ailatrieuphu.utils.PlayMusic;
+import com.quangda280296.ailatrieuphu.utils.Utils;
 
-import static ailatrieuphu.trieuphu2019.activity.MainActivity.mainActivity;
+import static com.quangda280296.ailatrieuphu.activity.MainActivity.mainActivity;
 
 public class RuleActivity extends AppCompatActivity {
 
@@ -25,9 +25,9 @@ public class RuleActivity extends AppCompatActivity {
         setContentView(R.layout.activity_rule);
 
         new PlayMusic().playRule(getApplicationContext());
-        FrameLayout layout_ads = findViewById(R.id.layout_ads);
+        /*FrameLayout layout_ads = findViewById(R.id.layout_ads);
         RelativeLayout adView = findViewById(R.id.adView);
-        Utils.showAd(getApplicationContext(), adView, layout_ads);
+        Utils.showAd(getApplicationContext(), adView, layout_ads);*/
 
         findViewById(R.id.img_board).setVisibility(View.VISIBLE);
         YoYo.with(Techniques.SlideInUp)

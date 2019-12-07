@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="ailatrieuphu.trieuphu2019.activity.PlayActivity">
+    tools:context="com.quangda280296.ailatrieuphu.activity.PlayActivity">
 
     <LinearLayout
         android:layout_width="match_parent"

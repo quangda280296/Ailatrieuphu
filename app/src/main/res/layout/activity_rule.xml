@@ -6,7 +6,7 @@
     android:layout_height="match_parent"
     android:background="@mipmap/bg_home"
     android:orientation="vertical"
-    tools:context="ailatrieuphu.trieuphu2019.activity.RuleActivity">
+    tools:context="com.quangda280296.ailatrieuphu.activity.RuleActivity">
 
     <LinearLayout
         android:id="@+id/rule"

@@ -1,4 +1,4 @@
-package ailatrieuphu.trieuphu2019.listener;
+package com.quangda280296.ailatrieuphu.listener;
 
 import android.content.Context;
 import android.view.MotionEvent;
@@ -6,7 +6,7 @@ import android.view.View;
 import android.view.animation.Animation;
 import android.view.animation.AnimationUtils;
 
-import ailatrieuphu.trieuphu2019.R;
+import com.quangda280296.ailatrieuphu.R;
 
 /**
  * Created by Manh Dang on 03/05/2018.

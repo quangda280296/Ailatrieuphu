@@ -6,7 +6,7 @@
     android:layout_height="match_parent"
     android:background="@mipmap/bg_home"
     android:orientation="vertical"
-    tools:context="ailatrieuphu.trieuphu2019.activity.MainActivity">
+    tools:context="com.quangda280296.ailatrieuphu.activity.MainActivity">
 
     <LinearLayout
         android:id="@+id/main_layout"

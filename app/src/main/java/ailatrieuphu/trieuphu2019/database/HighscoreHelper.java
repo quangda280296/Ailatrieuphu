@@ -1,4 +1,4 @@
-package ailatrieuphu.trieuphu2019.database;
+package com.quangda280296.ailatrieuphu.database;
 
 import android.content.ContentValues;
 import android.content.Context;

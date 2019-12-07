@@ -1,10 +1,10 @@
-package ailatrieuphu.trieuphu2019.utils;
+package com.quangda280296.ailatrieuphu.utils;
 
 import android.os.AsyncTask;
 import android.util.Log;
 
-import ailatrieuphu.trieuphu2019.Config;
-import ailatrieuphu.trieuphu2019.Interface.ITimeReturn;
+import com.quangda280296.ailatrieuphu.Config;
+import com.quangda280296.ailatrieuphu.Interface.ITimeReturn;
 
 import org.json.JSONException;
 import org.json.JSONObject;

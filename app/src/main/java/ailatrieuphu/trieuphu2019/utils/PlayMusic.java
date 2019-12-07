@@ -1,9 +1,9 @@
-package ailatrieuphu.trieuphu2019.utils;
+package com.quangda280296.ailatrieuphu.utils;
 
 import android.content.Context;
 import android.media.MediaPlayer;
 
-import ailatrieuphu.trieuphu2019.R;
+import com.quangda280296.ailatrieuphu.R;
 
 /**
  * Created by keban on 3/6/2018.

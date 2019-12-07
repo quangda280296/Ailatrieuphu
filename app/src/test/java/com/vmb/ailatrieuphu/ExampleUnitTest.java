@@ -1,4 +1,4 @@
-package ailatrieuphu.trieuphu2019;
+package com.quangda280296.ailatrieuphu;
 
 import org.junit.Test;
 

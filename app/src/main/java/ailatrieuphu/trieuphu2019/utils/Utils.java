@@ -1,4 +1,4 @@
-package ailatrieuphu.trieuphu2019.utils;
+package com.quangda280296.ailatrieuphu.utils;
 
 import android.app.Activity;
 import android.content.Context;
@@ -14,7 +14,7 @@ import com.google.android.gms.ads.AdRequest;
 import com.google.android.gms.ads.AdSize;
 import com.google.android.gms.ads.AdView;
 import com.google.android.gms.ads.InterstitialAd;
-import ailatrieuphu.trieuphu2019.Config;
+import com.quangda280296.ailatrieuphu.Config;
 
 import java.util.Calendar;
 import java.util.Random;
