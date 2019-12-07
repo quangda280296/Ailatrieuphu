@@ -6,3 +6,8 @@ Game giả lập gameshow truyền hình "Ai là triệu phú" với đầy đ�
 ## Link Google Play: 
 
 ## Screenshots
+<img src="./screenshots/200.png">
+<img src="./screenshots/aHome.jpg">
+<img src="./screenshots/bPlay 1.jpg">
+<img src="./screenshots/bPlay 2.jpg">
+<img src="./screenshots/Y kien khan gia.jpg">
