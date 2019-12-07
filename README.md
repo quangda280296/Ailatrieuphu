@@ -1,7 +1,7 @@
-# Flashlight
+# Ai là triệu phú
 
 ## Descritption
-Android application that allows turning on the flashlight on the phone, high brightness, many custom modes. The application has a friendly interface, beautiful, lightweight, fast startup.
+Game giả lập gameshow truyền hình "Ai là triệu phú" với đầy đủ các đặc điểm không khác gì trò chơi thực tế: 15 câu hỏi, 3 sự trợ giúp, đồ họa đẹp, âm thanh mãn nhãn, mô phỏng giống như thật.
 Link Google Play: 
 
 ## Screenshots
