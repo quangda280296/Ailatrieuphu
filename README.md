@@ -4,7 +4,7 @@
 Game giả lập gameshow truyền hình "Ai là triệu phú" với đầy đủ các đặc điểm không khác gì trò chơi thực tế: 15 câu hỏi, 3 sự trợ giúp, đồ họa đẹp, âm thanh mãn nhãn, mô phỏng giống như thật.
 
 ## Link app: 
-https://drive.google.com/open?id=1QLmBvlaFJC692SRHXyFl551mikjekMG2
+[Demo](https://github.com/quangda280296/Ailatrieuphu/blob/master/app/release/app-release.apk) 
 
 ## Screenshots
 ![]
